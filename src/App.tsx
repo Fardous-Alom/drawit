@@ -19,8 +19,7 @@ import {
   Trash2, 
   Undo, 
   Square, 
-  Circle, 
-  MousePointer,
+  Circle,
   Menu,
   X
 } from "lucide-react";
